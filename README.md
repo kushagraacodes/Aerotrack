@@ -60,7 +60,9 @@ hyphens (e.g., New York, Rio-de-Janeiro)
 <img width="250" height="250" alt="Screenshot 2026-03-30 at 3 36 23 PM" src="https://github.com/user-attachments/assets/105fb12a-97d1-42b9-b657-e964cc1a69de" />
 <img width="250" height="250" alt="Screenshot 2026-03-30 at 3 37 26 PM" src="https://github.com/user-attachments/assets/0febd0c8-0ee7-4a23-82fd-26044b82297d" />
 <img width="250" height="218" alt="Screenshot 2026-03-30 at 3 37 48 PM" src="https://github.com/user-attachments/assets/0e9e61bd-8f67-49c4-b623-5af6c48f5203" />
+
 ## Outputs
+
 <img width="250" height="293" alt="Screenshot 2026-03-30 at 3 38 42 PM" src="https://github.com/user-attachments/assets/9c32427e-d0c5-4f3e-859b-e3670faea50a" />
 <img width="250" height="295" alt="Screenshot 2026-03-30 at 3 39 28 PM" src="https://github.com/user-attachments/assets/857085dd-d667-467e-b338-20ac57445d73" />
 
